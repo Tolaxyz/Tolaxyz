@@ -1,4 +1,4 @@
-# Hi there, I'M Tee! 👋 
+# Hi there, I'M Tola! 👋 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Tolaxyz&show_icons=true&theme=radical" />
 
